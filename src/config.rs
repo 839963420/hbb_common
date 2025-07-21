@@ -102,7 +102,7 @@ const CHARS: &[char] = &[
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["itremotetools.sheincorp.cn"];
 pub const RS_PUB_KEY: &str = "";
-
+//kk
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
 pub const WS_RENDEZVOUS_PORT: i32 = 21118;
